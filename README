@@ -1,0 +1,3 @@
+List organizations that participate in one group but not in another.
+
+Usage: node diff.js <id1> <id2>

@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "node-w3capi": "^1.1.2"
+  }
+}
